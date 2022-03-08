@@ -1,4 +1,4 @@
-# Mouse-Finder
+# Mouse Information Retriever 
 A simple program to give the position and the color at the position of the cursor.
 
 This program can be easily accessed through the command prompt and passed an integer value to set the delay time before running. If not passed a value then it is set to wait 3 seconds before getting cursor position and color.
